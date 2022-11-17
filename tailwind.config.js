@@ -19,6 +19,7 @@ module.exports = {
       lightGray:"#e5e5e5",
       button:"#8ba73b",
       gradientOne:"#F5F5F5",
+      black:"#171717",
       gradientTwo:"#FFFFFF",
       },
     extend: {},
